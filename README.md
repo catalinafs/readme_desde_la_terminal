@@ -7,3 +7,6 @@ este es un taller a realizar en la clase de desarrollo:
 5. Guardar los cambios del respositorio local.
 6. Crear un repositorio remoto (github).
 7. Subir los cambios y los archivos al repositorio remoto.
+8. Crear otra rama.
+9. Subir la rama al repositorio remoto.
+10. Crear otro repositorio remoto.
